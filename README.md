@@ -169,3 +169,11 @@ class Signal:
   potency: float = 1.0
 ```
 
+
+
+&nbsp;  
+
+---
+
+## References
+- [](https://youtube.com/watch?v=X5trRLX7PQY)
