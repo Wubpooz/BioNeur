@@ -5,6 +5,12 @@ energy minimization
 How does this "learn" and continue learning without becoming biaised, weird or smth?  
 
 
+## NeuroScience Courses
+https://nba.uth.tmc.edu/neuroscience/m/index.htm
+https://compcogneuro.org/
+https://neuronaldynamics.epfl.ch/online/index.html
+https://ocw.mit.edu/courses/9-01-introduction-to-neuroscience-fall-2007/download/
+https://neurodata.io/data/allen_atlas/
 
 &nbsp;  
 
